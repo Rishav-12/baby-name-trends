@@ -5,6 +5,8 @@ Data-driven Web App made with Streamlit
 ## Local Installation
 
 ```bash
+git clone https://github.com/Rishav-12/baby_name_trends.git
+cd baby_name_trends
 python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
