@@ -1,4 +1,4 @@
-# baby_name_trends
+# baby name trends
 
 Data-driven Web App made with Streamlit
 
